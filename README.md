@@ -7,7 +7,7 @@
 | name               | string              | null: false             |
 | profile            | text                | null: false             |
 | profession         | text                | null: false             |
-| actual_size        | integer             |                         |
+| size               | integer             |                         |
 
 ### Association
 
@@ -20,7 +20,7 @@
 |-------------------------------------|------------|-------------------|
 | title                               | string     | null: false       |
 | cream                               | text       | null: false       |
-| wax                                 | text       | null: false       |
+| procedure                                 | text       | null: false       |
 | user                                | references | foreign_key: true |
 
 ### Association

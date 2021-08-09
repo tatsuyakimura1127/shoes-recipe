@@ -63,7 +63,7 @@ a {
   text-decoration: none;
   user-select: none;
   border: 2px #fff solid;
-  border-radius: 3px;
+  border-radius: 6px;
   transition: 0.4s ease;
 }
 .nav__btn:hover{
@@ -73,11 +73,13 @@ a {
 
 .nav__logout{
   display: inline-block;
-  padding: 0.4em 1.6em;
-  font-size: 0.8em;
+  padding: 1em 1.6em;
+  font-size: 1em;
   color: #fff;
   text-decoration: none;
   user-select: none;
+  border: 2px #fff solid;
+  border-radius: 6px;
 }
 .nav__logout:hover{
   opacity: 0.5;
