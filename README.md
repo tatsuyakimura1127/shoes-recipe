@@ -20,7 +20,7 @@
 |-------------------------------------|------------|-------------------|
 | title                               | string     | null: false       |
 | cream                               | text       | null: false       |
-| procedure                                 | text       | null: false       |
+| procedure                           | text       | null: false       |
 | user                                | references | foreign_key: true |
 
 ### Association
