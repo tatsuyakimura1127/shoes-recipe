@@ -125,12 +125,14 @@ a {
 
 .greeting{
   margin-bottom: 20px;
+  font-size: 18px;
 }
 .greeting__link{
   text-decoration: underline;
+  font-size: 18px;
 }
 .page-heading {
-  font-size: 30px;
+  font-size: 20px;
   margin-bottom: 28px;
 }
 .card__wrapper {
@@ -169,25 +171,24 @@ a {
   min-height: calc(100vh - 161px);
 }
 .recipe__hedding{
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
-  text-align: center;
+  
 }
 .recipe__user{
   display: block;
   font-size: 16px;
   color: #999;
-  text-align: center;
+  
   text-decoration: underline;
 }
 .recipe__image{
   width: 40%;
-  margin: 0 auto;
+  margin: 0 ;
   padding: 16px 0;
 }
 .recipe__detail{
   display: flex;
-  align-items: center;
   flex-direction: column;
   margin-bottom: 8px;
 }
@@ -197,7 +198,6 @@ a {
 }
 .recipe__manage{
   display: flex;
-  justify-content: center;
   padding-top: 16px;
 }
 .recipe__btn{
