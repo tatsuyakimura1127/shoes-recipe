@@ -38,20 +38,27 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 
 実装した機能についての画像やGIFおよびその説明	
 ・ユーザー管理機能　　
-ビジネスマンとして靴のお手入れをすることも想定し、プロフィール欄に職業を入力できるように設定した。また、革靴はサイズ感がとても重要なためユーザーの足の実寸を入力することができるようにした。
+ビジネスマンとして靴のお手入れをすることも想定し、プロフィール欄に職業を入力できるように設定した。
+また、革靴はサイズ感がとても重要なためユーザーの足の実寸を入力することができるようにした。
+[![Image from Gyazo](https://i.gyazo.com/171028f610f250080af6bb02ca890020.gif)](https://gyazo.com/171028f610f250080af6bb02ca890020)
 
 ・投稿機能　
-投稿時には使った道具とお手入れの手順を入力して投稿することができます。ユーザーの「この靴どのクリームでお手入れしたらいいんだろう」を解決したいので使った道具を見やすい形で投稿できるように工夫しています。
+投稿時には使った道具とお手入れの手順を入力して投稿することができます。
+ユーザーの「この靴どのクリームでお手入れしたらいいんだろう」を解決したいので使った道具を見やすい形で投稿できるように工夫しています。
+[![Image from Gyazo](https://i.gyazo.com/9b7ff2482fd2051ba4421d42afe0ba2e.gif)](https://gyazo.com/9b7ff2482fd2051ba4421d42afe0ba2e)
 
 ・編集機能
 一度投稿した内容を編集することができます。
+[![Image from Gyazo](https://i.gyazo.com/cc9bf7a0afdda3152c3800788cc295a7.gif)](https://gyazo.com/cc9bf7a0afdda3152c3800788cc295a7)
 
 ・削除機能
 投稿を削除することができます。
+[![Image from Gyazo](https://i.gyazo.com/16716472db8805afd7d57cc90eb81f0e.gif)](https://gyazo.com/16716472db8805afd7d57cc90eb81f0e)
 
 ・コメント機能
 全てのユーザーの投稿にコメントすることができます。
 CtoCのサービスであるためユーザー同士のコミュニケーションが不可欠だと考え実装しました。
+[![Image from Gyazo](https://i.gyazo.com/9fbe28069c0cf939cef043af729fbd3e.gif)](https://gyazo.com/9fbe28069c0cf939cef043af729fbd3e)
 
 
 
@@ -65,7 +72,7 @@ CtoCのサービスであるためユーザー同士のコミュニケーショ�
 
 データベース設計
 [![Image from Gyazo](https://i.gyazo.com/c312385810986c28f3221b3e233b9991.png)](https://gyazo.com/c312385810986c28f3221b3e233b9991)
-https://gyazo.com/c312385810986c28f3221b3e233b9991
+
 
 開発環境　
 Ruby / Ruby on Rails / MySQL / GitHub / Heroku / Visual Studio Code 
